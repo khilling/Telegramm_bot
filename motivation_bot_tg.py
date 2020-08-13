@@ -6,7 +6,7 @@ from datetime import datetime
 import random
 
 
-opb_token = '1165882794:AAHXawPjjkAD19mC3etYtlxulcyHS_H81tE' 
+opb_token = 'YOUR TOKEN' #to obtein 'YOUR TOKEN' please proceed to https://romua1d.ru/kak-poluchit-token-bota-telegram-api/
 bot = telebot.TeleBot(opb_token)
 users = {}
 colors = ['red', 'blue', 'pink', 'orange', 'black', 'yellow', 'green', 'violet']
